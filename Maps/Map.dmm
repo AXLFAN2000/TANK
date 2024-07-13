@@ -1,0 +1,40 @@
+"a" = (/turf,/area)
+"b" = (/turf/Supplywall1,/area)
+"c" = (/turf/Supplyfloor1,/area)
+"d" = (/turf/Supplydoor1,/area)
+"e" = (/mob/NPC/Carve,/turf/Supplyfloor1,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abbbbbbbbbbbbbbaaaaaaaaaaaaaaaaa
+abccccccccccccbaaaaaaaaaaaaaaaaa
+abccccccccccccbaaaaaaaaaaaaaaaaa
+abccccccccccccbaaaaaaaaaaaaaaaaa
+abccccccccccccbaaaaaaaaaaaaaaaaa
+abccccccccccccbaaaaaaaaaaaaaaaaa
+abccccccccccccbaaaaaaaaaaaaaaaaa
+abccccccccccccbaaaaaaaaaaaaaaaaa
+abccccccccccccbaaaaaaaaaaaaaaaaa
+abccccccccccccbaaaaaaaaaaaaaaaaa
+abbbbbbbbbddbbbaaaaaaaaaaaaaaaaa
+abceccccccccccbaaaaaaaaaaaaaaaaa
+abccccccccccccbaaaaaaaaaaaaaaaaa
+abccccccccccccbaaaaaaaaaaaaaaaaa
+abccccccccccccbaaaaaaaaaaaaaaaaa
+abbbbbbbbbbbbbbaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

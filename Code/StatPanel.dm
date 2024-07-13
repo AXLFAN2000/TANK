@@ -1,0 +1,10 @@
+mob/Stat()
+    statpanel("[src]'s Stats")
+    stat("Level:","[src.Level]")
+    stat("EXP:","[src.Exp]/[src.Nexp]")
+    stat("Health:","[src.HP]/[src.MaxHP]")
+    stat("Strength:","[src.Str]")
+    stat("Defense:","[src.Def]")
+    
+    statpanel("Another Tab")
+    stat("???")

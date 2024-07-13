@@ -1,0 +1,19 @@
+turf
+    icon='Turfs.dmi'
+    Grass
+        icon_state="Grass"
+    Dirt
+        icon_state="Dirt"
+    Wall
+        density=1
+        opacity=1
+        icon_state="Wall"
+    Supplyfloor1
+        icon_state="Supplyfloor1"
+    Supplywall1
+        icon_state="Supplywall1"
+        density=1
+        opacity=1
+    Supplydoor1
+        icon_state="Supplydoor1"
+        density=1

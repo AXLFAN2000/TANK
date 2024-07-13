@@ -1,0 +1,42 @@
+// DM Environment file for TANK.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "Mob"
+#define FILE_DIR "Turfs"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "TANK.dm"
+#include "Code\Procs.dm"
+#include "Code\Save.dm"
+#include "Code\StatPanel.dm"
+#include "Code\Vars.dm"
+#include "Code\Verbs.dm"
+#include "Libraries\Keyboard\default.dm"
+#include "Libraries\Keyboard\keyboard.dm"
+#include "Libraries\Pixel Movement\_flags.dm"
+#include "Libraries\Pixel Movement\camera.dm"
+#include "Libraries\Pixel Movement\collision.dm"
+#include "Libraries\Pixel Movement\debugging.dm"
+#include "Libraries\Pixel Movement\keyboard.dm"
+#include "Libraries\Pixel Movement\movement.dm"
+#include "Libraries\Pixel Movement\pathing.dm"
+#include "Libraries\Pixel Movement\pixel-movement.dm"
+#include "Libraries\Pixel Movement\procs.dm"
+#include "Libraries\Text\text.dm"
+#include "Maps\Map.dmm"
+#include "Mob\Enemies.dm"
+#include "Mob\NPC.dm"
+#include "Mob\Player.dm"
+#include "Turfs\Turfs.dm"
+// END_INCLUDE
+
